@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/robinson-eduardo-aguilar-puentes-3575a1238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robinson eduardo aguilar puentes" height="30" width="40" /></a>
-<a href="https://instagram.com/@_binmex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_binmex" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/robinson-eduardo-aguilar-puentes-3575a1238](https://www.linkedin.com/in/robinson-eduardo-aguilar-puentes-3575a1238/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="robinson eduardo aguilar puentes" height="30" width="40" /></a>
+<a href="[https://instagram.com/@_binmex](https://www.instagram.com/_binmex)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_binmex" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
